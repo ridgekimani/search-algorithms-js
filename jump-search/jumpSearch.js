@@ -1,5 +1,18 @@
 const jumpSearch = (array, value) => {
     const arrayLength = array.length
+
+    if (!arrayLength) {
+        return -1
+    }
+
+    if (array[0] === value) {
+        return 0
+    }
+
+    if (array[arrayLength - 1] === value) {
+        return arrayLength - 1
+    }
+
     const stepSize = Math.floor(Math.sqrt(arrayLength))
     let startIndex = 0
     let stopIndex = stepSize
