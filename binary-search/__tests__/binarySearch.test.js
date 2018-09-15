@@ -13,4 +13,3 @@ describe ("binary search tests", () => {
     })
 
 })
-
