@@ -1,2 +1,3 @@
 # search-algorithms-js
-Search algorithms in js
+Implements Search algorithms in js
+- [BinarySearch]()
