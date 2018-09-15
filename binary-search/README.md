@@ -6,4 +6,4 @@ array.
  again taking the middle element to compare to the target value, and repeating this until the target value is found. 
  - If the search ends with the remaining half being empty, the target is not in the array.
  
- It's a logarithmic search hence making it 0 Log n
+ It's a logarithmic search hence making it OLog(n)
