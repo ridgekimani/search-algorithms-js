@@ -1,0 +1,26 @@
+{
+  "name": "search-algorithms",
+  "version": "1.0.0",
+  "description": "Search algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridgekimani/search-algorithms-js.git"
+  },
+  "keywords": [
+    "search",
+    "algorithms"
+  ],
+  "author": "Ridge Kimani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ridgekimani/search-algorithms-js/issues"
+  },
+  "homepage": "https://github.com/ridgekimani/search-algorithms-js#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
