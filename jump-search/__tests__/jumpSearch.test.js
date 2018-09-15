@@ -13,4 +13,3 @@ describe ("jump search tests", () => {
     })
 
 })
-
