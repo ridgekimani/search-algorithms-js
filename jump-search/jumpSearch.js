@@ -26,4 +26,8 @@ const jumpSearch = (array, value) => {
     return -1
 }
 
+<<<<<<< HEAD
 module.exports = jumpSearch
+=======
+module.exports = jumpSearch
+>>>>>>> implement jump search
